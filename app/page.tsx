@@ -5,7 +5,6 @@ const strengths = [
   { number: '02', title: "Capacité d'apprentissage", text: "Aborder une technologie inconnue grâce à la documentation, la pratique et l'expérimentation." },
   { number: '03', title: 'Persévérance & recul', text: "Comprendre l'origine d'un problème, tester des hypothèses et corriger ce qui doit l'être." },
 ]
-
 const features = [
   ['01', 'Gestion documentaire', 'Dépôt, téléchargement et mise à jour de fichiers, navigation par dossiers, métadonnées, prévisualisation et corbeille.'],
   ['02', 'Utilisateurs & permissions', 'Gestion des comptes, rôles administrateur et employé, avec contrôle des droits d’accès aux documents.'],
